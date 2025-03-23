@@ -1,0 +1,4 @@
+﻿  Homework_1_.cpp
+C:\CODE\CppProj\Homework_N1_Sem2\Homework_N1_Sem2\Homework_1_.cpp(18,12): warning C4804: <=: небезопасное использование типа "bool" в операции
+Homework_1_.obj : error LNK2005: main уже определен в Homework.obj
+C:\CODE\CppProj\Homework_N1_Sem2\x64\Debug\Homework_N1_Sem2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
